@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 const getCat = async (req, res) => {
-    res.send('Cat')
+    res.send('🐈 🐈 🐈');
 }
 
 export {
